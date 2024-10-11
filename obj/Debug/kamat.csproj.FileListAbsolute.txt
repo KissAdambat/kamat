@@ -1,0 +1,7 @@
+C:\Users\Kissa\GitWork\kamat\bin\Debug\kamat.exe.config
+C:\Users\Kissa\GitWork\kamat\bin\Debug\kamat.exe
+C:\Users\Kissa\GitWork\kamat\bin\Debug\kamat.pdb
+C:\Users\Kissa\GitWork\kamat\obj\Debug\kamat.csproj.AssemblyReference.cache
+C:\Users\Kissa\GitWork\kamat\obj\Debug\kamat.csproj.CoreCompileInputs.cache
+C:\Users\Kissa\GitWork\kamat\obj\Debug\kamat.exe
+C:\Users\Kissa\GitWork\kamat\obj\Debug\kamat.pdb
